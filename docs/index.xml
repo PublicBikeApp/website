@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PublicBike</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on PublicBike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App</title>
-      <link>http://localhost:1313/app/</link>
+      <link>https://example.org/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/app/</guid>
+      <guid>https://example.org/app/</guid>
       <description>&lt;h2 id=&#34;navigation&#34;&gt;Navigation:&lt;/h2&gt;
 &lt;p&gt;There is:&lt;/p&gt;
 &lt;ul&gt;
@@ -259,9 +259,9 @@
     </item>
     <item>
       <title>App Pricing</title>
-      <link>http://localhost:1313/pricing/</link>
+      <link>https://example.org/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pricing/</guid>
+      <guid>https://example.org/pricing/</guid>
       <description>&lt;p&gt;Our app allows you to make &lt;strong&gt;10 free requests&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;After that, you can choose from one of our subscription plans. Please note that these are &lt;strong&gt;one-time purchases&lt;/strong&gt;, and once the subscription period expires, you will need to manually purchase a new plan to continue using the app. No card details are required for automatic renewal.&lt;/p&gt;
 &lt;table&gt;
@@ -325,9 +325,9 @@
     </item>
     <item>
       <title>Cities</title>
-      <link>http://localhost:1313/cities/</link>
+      <link>https://example.org/cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cities/</guid>
+      <guid>https://example.org/cities/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -6488,9 +6488,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://example.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://example.org/contact/</guid>
       <description>&lt;p&gt;For any inquiries or support, feel free to reach out to us at:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:public.bike.app@gmail.com&#34;&gt;public.bike.app@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We look forward to hearing from you!&lt;/p&gt;</description>
