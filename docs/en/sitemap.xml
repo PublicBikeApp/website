@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/app/</loc>
+    <loc>https://publicbikeapp.github.io/website/app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/app/"
+                href="https://publicbikeapp.github.io/website/pl/app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/app/"
+                href="https://publicbikeapp.github.io/website/de/app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/app/"
+                href="https://publicbikeapp.github.io/website/app/"
                 />
   </url><url>
-    <loc>https://example.org/pricing/</loc>
+    <loc>https://publicbikeapp.github.io/website/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/pricing/"
+                href="https://publicbikeapp.github.io/website/pl/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/pricing/"
+                href="https://publicbikeapp.github.io/website/de/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/pricing/"
+                href="https://publicbikeapp.github.io/website/pricing/"
                 />
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://publicbikeapp.github.io/website/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/categories/"
+                href="https://publicbikeapp.github.io/website/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/categories/"
+                href="https://publicbikeapp.github.io/website/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/categories/"
+                href="https://publicbikeapp.github.io/website/categories/"
                 />
   </url><url>
-    <loc>https://example.org/cities/</loc>
+    <loc>https://publicbikeapp.github.io/website/cities/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/cities/"
+                href="https://publicbikeapp.github.io/website/pl/cities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/cities/"
+                href="https://publicbikeapp.github.io/website/de/cities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/cities/"
+                href="https://publicbikeapp.github.io/website/cities/"
                 />
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://publicbikeapp.github.io/website/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/contact/"
+                href="https://publicbikeapp.github.io/website/pl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/contact/"
+                href="https://publicbikeapp.github.io/website/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/contact/"
+                href="https://publicbikeapp.github.io/website/contact/"
                 />
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://publicbikeapp.github.io/website/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/"
+                href="https://publicbikeapp.github.io/website/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/"
+                href="https://publicbikeapp.github.io/website/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/"
+                href="https://publicbikeapp.github.io/website/"
                 />
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://publicbikeapp.github.io/website/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.org/pl/tags/"
+                href="https://publicbikeapp.github.io/website/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/tags/"
+                href="https://publicbikeapp.github.io/website/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/tags/"
+                href="https://publicbikeapp.github.io/website/tags/"
                 />
   </url>
 </urlset>
