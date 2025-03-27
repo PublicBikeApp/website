@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PublicBike</title>
-    <link>https://publicbikeapp.github.io/website/de/</link>
+    <link>https://example.org/de/</link>
     <description>Recent content on PublicBike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="https://publicbikeapp.github.io/website/de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App</title>
-      <link>https://publicbikeapp.github.io/website/de/app/</link>
+      <link>https://example.org/de/app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/website/de/app/</guid>
+      <guid>https://example.org/de/app/</guid>
       <description>&lt;h2 id=&#34;navigation&#34;&gt;Navigation:&lt;/h2&gt;
 &lt;p&gt;Verfügbar sind:&lt;/p&gt;
 &lt;ul&gt;
@@ -27,7 +27,7 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/website/images/main.png&#34; alt=&#34;Startbildschirm&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://example.org/images/main.png&#34; alt=&#34;Startbildschirm&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -49,10 +49,10 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/website/images/settings.png&#34; alt=&#34;Einstellungen&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/website/images/changeCity.png&#34; alt=&#34;Stadt ändern&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/website/images/changeCity2.png&#34; alt=&#34;Stadt ändern 2&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;img src=&#34;https://publicbikeapp.github.io/website/images/settings2.png&#34; alt=&#34;Einstellungen 2&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://example.org/images/settings.png&#34; alt=&#34;Einstellungen&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://example.org/images/changeCity.png&#34; alt=&#34;Stadt ändern&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://example.org/images/changeCity2.png&#34; alt=&#34;Stadt ändern 2&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;img src=&#34;https://example.org/images/settings2.png&#34; alt=&#34;Einstellungen 2&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -259,9 +259,9 @@
     </item>
     <item>
       <title>App-Preise</title>
-      <link>https://publicbikeapp.github.io/website/de/pricing/</link>
+      <link>https://example.org/de/pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/website/de/pricing/</guid>
+      <guid>https://example.org/de/pricing/</guid>
       <description>&lt;p&gt;Unsere App ermöglicht &lt;strong&gt;10 kostenlose Anfragen&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Danach können Sie einen unserer Abonnementpläne wählen. Bitte beachten Sie, dass es sich um &lt;strong&gt;einmalige Käufe&lt;/strong&gt; handelt. Nach Ablauf des Abonnements müssen Sie manuell einen neuen Plan erwerben, um die App weiterhin nutzen zu können. Es sind keine Kreditkartendaten für eine automatische Verlängerung erforderlich.&lt;/p&gt;
 &lt;table&gt;
@@ -325,9 +325,9 @@
     </item>
     <item>
       <title>Kontakt</title>
-      <link>https://publicbikeapp.github.io/website/de/contact/</link>
+      <link>https://example.org/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/website/de/contact/</guid>
+      <guid>https://example.org/de/contact/</guid>
       <description>&lt;p&gt;Bei Fragen oder Supportbedarf kontaktieren Sie uns unter:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;E-Mail:&lt;/strong&gt; &lt;a href=&#34;mailto:public.bike.app@gmail.com&#34;&gt;public.bike.app@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wir freuen uns auf Ihre Nachricht!&lt;/p&gt;</description>
@@ -338,9 +338,9 @@
     </item>
     <item>
       <title>Städte</title>
-      <link>https://publicbikeapp.github.io/website/de/cities/</link>
+      <link>https://example.org/de/cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://publicbikeapp.github.io/website/de/cities/</guid>
+      <guid>https://example.org/de/cities/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
